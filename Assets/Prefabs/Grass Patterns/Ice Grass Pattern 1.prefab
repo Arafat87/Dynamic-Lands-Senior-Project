@@ -1,0 +1,2734 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6221299032616948646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1242265741976100308}
+  m_Layer: 0
+  m_Name: Ice Grass Pattern 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1242265741976100308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6221299032616948646}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -161.5, y: 0, z: 55.56}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2679828132722950129}
+  - {fileID: 8234141178085519535}
+  - {fileID: 7287495571624108982}
+  - {fileID: 2045907824940455948}
+  - {fileID: 430744410608694892}
+  - {fileID: 5545004276490615840}
+  - {fileID: 5129433395013284181}
+  - {fileID: 8859141080141687447}
+  - {fileID: 4949881937629574859}
+  - {fileID: 7157004094567618753}
+  - {fileID: 4040995771073699473}
+  - {fileID: 8052693376282489174}
+  - {fileID: 4668133282483048534}
+  - {fileID: 8849399405259365582}
+  - {fileID: 6186546556354343637}
+  - {fileID: 7379407108035252337}
+  - {fileID: 9042406732918995031}
+  - {fileID: 688222756362690721}
+  - {fileID: 5042245245490465335}
+  - {fileID: 2330046272753037535}
+  - {fileID: 4942665671049317237}
+  - {fileID: 2010446963331239124}
+  - {fileID: 2932007485392713010}
+  - {fileID: 7313805659716372124}
+  - {fileID: 5213221419701852118}
+  - {fileID: 8525321854384038644}
+  - {fileID: 1776672613500732740}
+  - {fileID: 2252497376698113903}
+  - {fileID: 8698811679104326236}
+  - {fileID: 1970287579330126411}
+  - {fileID: 2654407578523063895}
+  - {fileID: 2600145658637153162}
+  - {fileID: 8983802873066690158}
+  - {fileID: 8646388684325286727}
+  - {fileID: 7951066875376019396}
+  - {fileID: 787675934656918221}
+  - {fileID: 1962613759762300352}
+  m_Father: {fileID: 0}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &573032027871069854
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.29942322
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.89873886
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &430744410608694892 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 573032027871069854}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &963216886535091624
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.8852539
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.3092041
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &6186546556354343637 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 963216886535091624}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1214875367240044715
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4148254
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.0360451
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &5213221419701852118 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 1214875367240044715}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1474612175065643869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.6298065
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.25239563
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &5545004276490615840 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 1474612175065643869}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1816362995342724402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0854187
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.3095474
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &1962613759762300352 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 1816362995342724402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1827969180937982649
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.26797485
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7263222
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &1970287579330126411 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 1827969180937982649}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1918986446838822326
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.99923706
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.0919685
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &1776672613500732740 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 1918986446838822326}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2080739716824688664
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.81056213
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.81824493
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &688222756362690721 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 2080739716824688664}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2111031795476246429
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.07713318
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.18948364
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &2252497376698113903 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 2111031795476246429}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2192435007677081854
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.0232697
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.46099854
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &2045907824940455948 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 2192435007677081854}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2270703004261694068
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.8497314
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.2913666
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &787675934656918221 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 2270703004261694068}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2323132646411345185
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.6703796
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5213165
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &8698811679104326236 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 2323132646411345185}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2826350889234665219
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.0528107
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.6266518
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &2679828132722950129 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 2826350889234665219}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3078503999618663872
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.3187103
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.6695213
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &2932007485392713010 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 3078503999618663872}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3421375920380064826
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.2367096
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.7727928
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &8646388684325286727 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 3421375920380064826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3564838796843301683
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.7086029
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.70679855
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &2600145658637153162 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 3564838796843301683}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3583478741290950382
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.1532288
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.0269241
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &2654407578523063895 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 3583478741290950382}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3835017331400882278
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5420074
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.7439499
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &2330046272753037535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 3835017331400882278}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4312133674268516284
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23796082
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.6543846
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &7157004094567618753 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 4312133674268516284}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4442639866145891531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.0432129
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.6132011
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &7287495571624108982 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 4442639866145891531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4810148045212164260
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9143524
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9080658
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &4668133282483048534 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 4810148045212164260}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4855871245639568297
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.23756409
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.0342255
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &2010446963331239124 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 4855871245639568297}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4982940703579914663
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7740326
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.95300674
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &5129433395013284181 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 4982940703579914663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5088643614973901703
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.046585083
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.9725304
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &4942665671049317237 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 5088643614973901703}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5095855071203542585
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.077316284
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.40343857
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &4949881937629574859 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 5095855071203542585}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5806525412442620558
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.14649963
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6762123
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &5042245245490465335 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 5806525412442620558}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6958500994859293164
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 3284319866487027187, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 2(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.9155426
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.1544266
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+--- !u!4 &4040995771073699473 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6378522001283106685, guid: 6c80d6cc1a2ae684a98f805d1b0ea797, type: 3}
+  m_PrefabInstance: {fileID: 6958500994859293164}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7150955631469931085
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.19714355
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.7604637
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &8525321854384038644 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 7150955631469931085}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7233192214645612675
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.34910583
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.30792618
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &7379407108035252337 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 7233192214645612675}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7455222283924108910
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.31748962
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.16617584
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &7313805659716372124 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 7455222283924108910}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7808752917482313526
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9235535
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.20541
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &7951066875376019396 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 7808752917482313526}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8042503777940218414
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5831451
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.2242508
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &8859141080141687447 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 8042503777940218414}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8091866355127124061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3527222
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.4242592
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &8234141178085519535 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 8091866355127124061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8702924301456911420
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.47019958
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.6507301
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &8849399405259365582 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 8702924301456911420}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8839900559826893295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 587001350464055356, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 3(Polybrush Clone)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.14434814
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9444809
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+--- !u!4 &8052693376282489174 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1543973040742156473, guid: eaf97bfee997e184297c7532b8c3c485, type: 3}
+  m_PrefabInstance: {fileID: 8839900559826893295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9125840170778338972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3458557
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.43465424
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &8983802873066690158 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 9125840170778338972}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9184118743532374181
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 1242265741976100308}
+    m_Modifications:
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.0338135
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.6067238
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7592728692983033667, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+      propertyPath: m_Name
+      value: Ice Grass 1(Polybrush Clone)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+--- !u!4 &9042406732918995031 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 146822553954791666, guid: 2f1faf67c033f2442b2acf909d472f16, type: 3}
+  m_PrefabInstance: {fileID: 9184118743532374181}
+  m_PrefabAsset: {fileID: 0}

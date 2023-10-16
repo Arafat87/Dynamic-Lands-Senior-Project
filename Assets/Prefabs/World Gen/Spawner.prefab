@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2445197022692608503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2445197022692608508}
+  - component: {fileID: 2445197022692608499}
+  - component: {fileID: 2445197022692608498}
+  - component: {fileID: 2445197022692608497}
+  - component: {fileID: 2445197022692608496}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Spawner
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 8
+  m_IsActive: 1
+--- !u!4 &2445197022692608508
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2445197022692608503}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 109.0187, y: 30.62, z: 396.71}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2445197022692608499
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2445197022692608503}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &2445197022692608498
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2445197022692608503}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!135 &2445197022692608497
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2445197022692608503}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2445197022692608496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2445197022692608503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8793b26c604fe14a9ee35563dc0c3d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canSpawn: 0
+  Bear: {fileID: 1437496061312186034, guid: 59f26a5af4007f843a75f0a1b912a945, type: 3}
+  Bear2: {fileID: 8857347881722878350, guid: f5ea8e7d7be58884993b1c9356d8d797, type: 3}
+  Bear3: {fileID: 5166116276556812312, guid: 50a3ef094598d8a4aa363903fed4d624, type: 3}
+  Bear4: {fileID: 5163764154245046450, guid: 55cdb0b5e52445847a1f670e5d734c61, type: 3}
+  Bear5: {fileID: 8965016871100192232, guid: c8cdcd3335c8090448b1acc3c09fbae7, type: 3}
+  Penguin: {fileID: 2100204837916575235, guid: 9441b1fad426a4c40beb3ce66671b2af, type: 3}
+  Penguin2: {fileID: 6956440166308005549, guid: 26049a7ace270d74888364195baf7c2a, type: 3}
+  Penguin3: {fileID: 3490547480588674611, guid: f868557128c1ced49a62704a921a29b1, type: 3}
+  Penguin4: {fileID: 2016105925914650637, guid: 6fa27aeb9b58cb247b3066d9a5cf71e1, type: 3}
+  Penguin5: {fileID: 8528580485534662390, guid: defa06fb917c6f747824089a463fdee8, type: 3}
+  Zombie: {fileID: 913747628178391051, guid: 02f42e2c4bb00c84f9bd26010554bc17, type: 3}
+  Zombie2: {fileID: 5905255283347986466, guid: c56940d7f5f74b94992176b683ceaf0d, type: 3}
+  Zombie3: {fileID: 5133048650880714987, guid: 047a0aee6a214cb4096cee805f2252fc, type: 3}
+  Zombie4: {fileID: 8983621509269437505, guid: 09cf1f2220eb0504aa913c7ecb662b8d, type: 3}
+  Zombie5: {fileID: 866344992173401035, guid: 58b48b92208c6284eb4c7a0559d47dd0, type: 3}
+  Alien: {fileID: 7033715519266206677, guid: 1dee01095157cb144ba7f156fa3e1bbf, type: 3}
+  Alien2: {fileID: 7547561823629340362, guid: a81c7b274c3e63f44ba3f6e5b641569c, type: 3}
+  Alien3: {fileID: 7271951205794307684, guid: 06d052472e5c7894e921615fa5125376, type: 3}
+  Alien4: {fileID: 8764749393023797817, guid: 9988318983f114d478f2248b39bee53a, type: 3}
+  Alien5: {fileID: 5321719740250594901, guid: 213e0d218b357dc4aae7cc0474865d8c, type: 3}
+  enemyList:
+  - {fileID: 11400000, guid: 9b412c31e8e87da4594b8ab3c83c7136, type: 2}
+  - {fileID: 11400000, guid: 7c1b6348288dddd4ebdba24d42cb9fff, type: 2}
+  - {fileID: 11400000, guid: 257b9702a8609d64fa7767f13f64570a, type: 2}
+  - {fileID: 11400000, guid: 02ff4b61fd2849e4f9d1ccf8fd0fddce, type: 2}
+  - {fileID: 11400000, guid: 287c5ccf5bc1d4946be2ae0e166e7aa2, type: 2}
+  - {fileID: 11400000, guid: 323084bab08189b4c8244ac4915c18f8, type: 2}
+  - {fileID: 11400000, guid: a660cf79a7cab9041859a2c0deee8420, type: 2}
+  - {fileID: 11400000, guid: 87e7600a448ae3745a13f3c1bab9a190, type: 2}
+  - {fileID: 11400000, guid: 6391b8a47a6e2b648bfdca60049130c0, type: 2}
+  - {fileID: 11400000, guid: 62dc210861dc2414fb14bb61cfa4b330, type: 2}
+  - {fileID: 11400000, guid: 1faef7ecea462db40a92afbaf984126c, type: 2}
+  - {fileID: 11400000, guid: 7dca5089f6ba69a499eeec3465bda4df, type: 2}
+  - {fileID: 11400000, guid: 33aaa0a9df2c1724a89c1a744357ed24, type: 2}
+  - {fileID: 11400000, guid: 737de9d70eb85c7419ce479bb7c46780, type: 2}
+  - {fileID: 11400000, guid: 4a562a52ed9b2f8459e858a2bb32a6f7, type: 2}
+  - {fileID: 11400000, guid: d0cf4ed019009fa4cbec1cf03d80c9a1, type: 2}
+  - {fileID: 11400000, guid: 065f96328cd54a44591510693baad0d0, type: 2}
+  - {fileID: 11400000, guid: c83115d057aa0464e9da94ecfad285a0, type: 2}
+  - {fileID: 11400000, guid: ebb1dc3a9bd0df9489839d41425189a9, type: 2}
+  - {fileID: 11400000, guid: f2081dcfec2ec7748b0bd17127a146cd, type: 2}
+  name: 
+  biome: 
