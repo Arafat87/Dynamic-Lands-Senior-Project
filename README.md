@@ -1,5 +1,7 @@
 # Dynamic-Lands-Senior-Project
 Low poly 3d game made in unity. 
+![Screenshot 2024-07-24 191628](https://github.com/user-attachments/assets/2d0744f3-ab6d-4a37-8b65-13a24685b854)
+
 ![Team Prefab Rogue](https://github.com/Arafat87/Dynamic-Lands-Senior-Project/assets/60323009/ce933090-ba2e-4bce-8818-35a28cba19ad)
 ![Menu-UI](https://github.com/Arafat87/Dynamic-Lands-Senior-Project/assets/60323009/314fc179-bd68-409a-b227-cec39986ce08)
 ![Menu-UI-2](https://github.com/Arafat87/Dynamic-Lands-Senior-Project/assets/60323009/d2be84f4-49c3-4fac-9687-c5a26d4191e3)
